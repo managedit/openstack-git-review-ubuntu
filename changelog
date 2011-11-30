@@ -1,4 +1,12 @@
-git-review (2.6.8+20111130~2317-0mit1~4.gbpd1715b) oneiric; urgency=low
+git-review (2.6.8+20111130~2322-0mit1~5.gbpd1715b) oneiric; urgency=high
+
+  ** SNAPSHOT build @d1715ba387654e7fc6fd714460144df8abf2aaba **
+
+  * UNRELEASED
+
+ -- Managed I.T. CI <ci@managedit.ie>  Wed, 30 Nov 2011 23:22:11 +0000
+
+git-review (2.6.8+20111130~2317-0mit1~4.gbpd1715b) oneiric; urgency=high
 
   ** SNAPSHOT build @d1715ba387654e7fc6fd714460144df8abf2aaba **
 
@@ -6,7 +14,7 @@ git-review (2.6.8+20111130~2317-0mit1~4.gbpd1715b) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Wed, 30 Nov 2011 23:17:51 +0000
 
-git-review (1.7+20111130~2314-0mit1~2.gbpd1715b) oneiric; urgency=low
+git-review (1.7+20111130~2314-0mit1~2.gbpd1715b) oneiric; urgency=high
 
   ** SNAPSHOT build @d1715ba387654e7fc6fd714460144df8abf2aaba **
 
@@ -14,7 +22,7 @@ git-review (1.7+20111130~2314-0mit1~2.gbpd1715b) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Wed, 30 Nov 2011 23:14:29 +0000
 
-git-review (1.7-0mit1) oneiric; urgency=low
+git-review (1.7-0mit1) oneiric; urgency=high
 
   * Initial packaging
 
