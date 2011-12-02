@@ -1,3 +1,11 @@
+git-review (2.6.8+20111202~1849-0mit1~6.gbpd1715b) oneiric; urgency=low
+
+  ** SNAPSHOT build @d1715ba387654e7fc6fd714460144df8abf2aaba **
+
+  * UNRELEASED
+
+ -- Managed I.T. CI <ci@managedit.ie>  Fri, 02 Dec 2011 18:49:39 +0000
+
 git-review (2.6.8+20111130~2322-0mit1~5.gbpd1715b) oneiric; urgency=high
 
   ** SNAPSHOT build @d1715ba387654e7fc6fd714460144df8abf2aaba **
