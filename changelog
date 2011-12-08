@@ -1,3 +1,14 @@
+git-review (2.6.8+20111208~0001-0mit1~8.gbpd40481) oneiric; urgency=low
+
+  ** SNAPSHOT build @d40481b190e85cb4775500c467416216c05193a6 **
+
+  [ Lorin Hochstein ]
+  * [d40481b1] Fix bug 901030
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 08 Dec 2011 00:01:45 +0000
+
 git-review (2.6.8+20111202~1852-0mit1~7.gbpd1715b) oneiric; urgency=low
 
   ** SNAPSHOT build @d1715ba387654e7fc6fd714460144df8abf2aaba **
