@@ -1,3 +1,14 @@
+git-review (2.6.8+20111220~0001-0mit1~9.gbp0f0b00) oneiric; urgency=low
+
+  ** SNAPSHOT build @0f0b0042a9e835e8389e07e8e180271fdb6cfee1 **
+
+  [ Monty Taylor ]
+  * [0f0b0042] Use specified remote for getting commit hook.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Tue, 20 Dec 2011 00:01:17 +0000
+
 git-review (2.6.8+20111208~0001-0mit1~8.gbpd40481) oneiric; urgency=low
 
   ** SNAPSHOT build @d40481b190e85cb4775500c467416216c05193a6 **
