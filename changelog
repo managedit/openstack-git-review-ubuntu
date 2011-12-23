@@ -1,3 +1,16 @@
+git-review (2.6.8+20111223~0001-0mit1~10.gbpb26118) oneiric; urgency=low
+
+  ** SNAPSHOT build @b26118cabb94a51774d4ca8b319279a9ef302d4f **
+
+  [ Monty Taylor ]
+  * [7d6213e1] Install hook via scp rather than http.
+  * [2545e433] Add workaround for broken urlparse.
+  * [d2f9932b] Remove the commands module and use subprocess.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Fri, 23 Dec 2011 00:01:06 +0000
+
 git-review (2.6.8+20111220~0001-0mit1~9.gbp0f0b00) oneiric; urgency=low
 
   ** SNAPSHOT build @0f0b0042a9e835e8389e07e8e180271fdb6cfee1 **
