@@ -1,3 +1,22 @@
+git-review (2.6.8+20111227~0000-0mit1~11.gbp2dceb4) oneiric; urgency=low
+
+  ** SNAPSHOT build @2dceb4aa115da83f3fcbb4d020ad919a5ba1724f **
+
+  [ Monty Taylor ]
+  * [e84c6f9e] Add --finish option to git-review.
+
+  [ James E. Blair ]
+  * [d97ffdd9] Only pass plain strings to shlex.split.
+
+  [ Monty Taylor ]
+  * [54a5ce0b] Document the new command line options.
+  * [f8705af4] Prep for release of 1.8.
+  * [2dceb4aa] Bump version post release.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Tue, 27 Dec 2011 00:00:30 +0000
+
 git-review (2.6.8+20111223~0001-0mit1~10.gbpb26118) oneiric; urgency=low
 
   ** SNAPSHOT build @b26118cabb94a51774d4ca8b319279a9ef302d4f **
