@@ -1,3 +1,15 @@
+git-review (2.6.8+20120104~0001-0mit1~12.gbp6be092) oneiric; urgency=low
+
+  ** SNAPSHOT build @6be09239022723e14e16981c58b62926332a275e **
+
+  [ Monty Taylor ]
+  * [a28af319] Remove commit --amend from hook installation.
+  * [6be09239] Post 1.9 release version bump.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Wed, 04 Jan 2012 00:01:47 +0000
+
 git-review (2.6.8+20111227~0000-0mit1~11.gbp2dceb4) oneiric; urgency=low
 
   ** SNAPSHOT build @2dceb4aa115da83f3fcbb4d020ad919a5ba1724f **
