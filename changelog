@@ -1,3 +1,17 @@
+git-review (2.6.8+20120106~0000-0mit1~13.gbpa154a7) oneiric; urgency=low
+
+  ** SNAPSHOT build @a154a78dcd0704217a019b124f639da501a8c923 **
+
+  [ Jason Axelson ]
+  * [3b4a2252] Add .gitreview instructions to readme
+  * [ca508535] Clarify instructions for contributing
+  * [a1209985] Add installation instructions to readme
+  * [a154a78d] Make readme links clickable
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Fri, 06 Jan 2012 00:00:39 +0000
+
 git-review (2.6.8+20120104~0001-0mit1~12.gbp6be092) oneiric; urgency=low
 
   ** SNAPSHOT build @6be09239022723e14e16981c58b62926332a275e **
