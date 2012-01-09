@@ -1,3 +1,14 @@
+git-review (2.6.8+20120109~0000-0mit1~14.gbp405d6c) oneiric; urgency=low
+
+  ** SNAPSHOT build @405d6cc3fb558f0886d65d5a1e928663b5655b13 **
+
+  [ Monty Taylor ]
+  * [405d6cc3] Migrate to argparse. optparse is deprecated.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Mon, 09 Jan 2012 00:00:59 +0000
+
 git-review (2.6.8+20120106~0000-0mit1~13.gbpa154a7) oneiric; urgency=low
 
   ** SNAPSHOT build @a154a78dcd0704217a019b124f639da501a8c923 **
