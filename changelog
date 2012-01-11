@@ -1,3 +1,14 @@
+git-review (2.6.8+20120111~0001-0mit1~15.gbpd74e40) oneiric; urgency=low
+
+  ** SNAPSHOT build @d74e4054e79205d6ab855fcdb19c15749ad26929 **
+
+  [ James E. Blair ]
+  * [d74e4054] Switch from 'git show' to 'git log'.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Wed, 11 Jan 2012 00:01:09 +0000
+
 git-review (2.6.8+20120109~0000-0mit1~14.gbp405d6c) oneiric; urgency=low
 
   ** SNAPSHOT build @405d6cc3fb558f0886d65d5a1e928663b5655b13 **
