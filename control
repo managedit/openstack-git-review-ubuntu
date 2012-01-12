@@ -4,12 +4,13 @@ Priority: optional
 Maintainer: Kiall Mac Innes <kiall@managedit.ie>
 Build-Depends: debhelper (>= 7.0.50),
  python-all (>= 2.6),
- python-distribute
+ python-distribute,
+ python-argparse
 X-Python-Version: >= 2.5
 Standards-Version: 3.9.2
 
 Package: git-review
 Architecture: all
-Depends: ${misc:Depends}, ${python:Depends}, python-pkg-resources, python (>= 2.6) | python-simplejson
+Depends: ${misc:Depends}, ${python:Depends}, python-argparse, python-pkg-resources, python (>= 2.6) | python-simplejson
 XB-Python-Version: ${python:Versions}
 Description: Tool to submit code to Gerrit
