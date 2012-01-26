@@ -1,3 +1,18 @@
+git-review (2.6.8+20120126~0001-0mit1~17.gbpca006c) oneiric; urgency=low
+
+  ** SNAPSHOT build @ca006c3a4838f6ce6d1f5035a37840eb7bc84bf0 **
+
+  [ Catrope ]
+  * [6628889d] Fix typo (Ammending -> Amending)
+  * [360156f1] Don't hardcode 'master'
+  * [48c6f5a7] Break out the config reading into its own method
+  * [fc2e03f7] Make the default branch configurable
+  * [ca006c3a] Remove useless username parameter from add_remote
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 26 Jan 2012 00:01:24 +0000
+
 git-review (2.6.8+20120112~1957-0mit1~16.gbpd74e40) oneiric; urgency=low
 
   ** SNAPSHOT build @d74e4054e79205d6ab855fcdb19c15749ad26929 **
