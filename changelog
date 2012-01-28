@@ -1,3 +1,25 @@
+git-review (2.6.8+20120128~0001-0mit1~19.gbpf8e5df) oneiric; urgency=low
+
+  ** SNAPSHOT build @f8e5df11f423e26542134eb7f08520a8f6fafe09 **
+
+  [ Kiall Mac Innes ]
+  * [9850b4d6] Add support for Gerrit 2.2.2's "Draft" status
+
+  [ Catrope ]
+  * [49ed14c1] Add myself to AUTHORS
+
+  [ Diederik ]
+  * [06b45ccb] Added dependencies in requirements.txt
+
+  [ Monty Taylor ]
+  * [3cf55f98] Added tox support for testing pep8.
+  * [fe4a5c82] Start 1.11.
+  * [f8e5df11] Start 1.12.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Sat, 28 Jan 2012 00:01:14 +0000
+
 git-review (2.6.8+20120126~0001-0mit1~17.gbpca006c) oneiric; urgency=low
 
   ** SNAPSHOT build @ca006c3a4838f6ce6d1f5035a37840eb7bc84bf0 **
