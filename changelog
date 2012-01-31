@@ -1,3 +1,15 @@
+git-review (2.6.8+20120131~0001-0mit1~20.gbpe85296) oneiric; urgency=low
+
+  ** SNAPSHOT build @e8529608fd8bf7a7261a47f302448a0dc3c088c1 **
+
+  [ Monty Taylor ]
+  * [284871b6] Freeze requirements for sdist packages.
+  * [e8529608] Provide easy flag for disabling update check.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Tue, 31 Jan 2012 00:01:15 +0000
+
 git-review (2.6.8+20120128~0001-0mit1~19.gbpf8e5df) oneiric; urgency=low
 
   ** SNAPSHOT build @f8e5df11f423e26542134eb7f08520a8f6fafe09 **
