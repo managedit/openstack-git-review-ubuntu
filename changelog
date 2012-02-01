@@ -1,3 +1,17 @@
+git-review (2.6.8+20120201~0001-0mit1~21.gbp3d6675) oneiric; urgency=low
+
+  ** SNAPSHOT build @3d6675958f0423d99164927c1d941f38ef6308e7 **
+
+  [ Monty Taylor ]
+  * [62e14dc7] Started 1.13.
+
+  [ Antoine Musso ]
+  * [3d667595] accepts color.ui boolean values
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Wed, 01 Feb 2012 00:01:09 +0000
+
 git-review (2.6.8+20120131~0001-0mit1~20.gbpe85296) oneiric; urgency=low
 
   ** SNAPSHOT build @e8529608fd8bf7a7261a47f302448a0dc3c088c1 **
