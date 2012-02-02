@@ -1,3 +1,14 @@
+git-review (2.6.8+20120202~0001-0mit1~22.gbpff3d50) oneiric; urgency=low
+
+  ** SNAPSHOT build @ff3d506aea79a446e5438bc8691b09a3deea4acb **
+
+  [ James E. Blair ]
+  * [ff3d506a] Use dirname instead of basename.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 02 Feb 2012 00:01:08 +0000
+
 git-review (2.6.8+20120201~0001-0mit1~21.gbp3d6675) oneiric; urgency=low
 
   ** SNAPSHOT build @3d6675958f0423d99164927c1d941f38ef6308e7 **
