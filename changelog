@@ -1,3 +1,14 @@
+git-review (2.6.8+20120217~0001-0mit1~27.gbpf719a3) oneiric; urgency=low
+
+  ** SNAPSHOT build @f719a31954cf064914a03b0cb443e44f6a41d370 **
+
+  [ Monty Taylor ]
+  * [f719a319] Actually fix the urlparse bug in OSX.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Fri, 17 Feb 2012 00:01:09 +0000
+
 git-review (2.6.8+20120211~0001-0mit1~26.gbpe0e1b8) oneiric; urgency=low
 
   ** SNAPSHOT build @e0e1b871380fb99e3324f96c9103f5eb21226249 **
